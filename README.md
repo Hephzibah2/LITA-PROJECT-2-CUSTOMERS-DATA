@@ -80,4 +80,7 @@ https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%2
 4. This shows the amount of customers that cancelled their subscription relative to those that did not
  https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1429%20Copy.jpeg
 
-5. 
+5. This reveals the subscription type that was cancelled most
+   https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy%20Copy.jpeg
+
+6. This shows the year subscription ws cancelled the most.
