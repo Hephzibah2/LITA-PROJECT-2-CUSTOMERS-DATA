@@ -66,3 +66,6 @@ https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/7229920b-2
 ### DATA VISUALISATION
 With the use of Power BI, I am able to illustrate every summary drawn from Microsoft Excel making it easy for the organisation to understand. Through this visualisations they are able to identify different trends and patterns and understand customer's behaviour and preferences. 
 
+This illustrates the sum of revenue by region
+
+https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy.jpeg
