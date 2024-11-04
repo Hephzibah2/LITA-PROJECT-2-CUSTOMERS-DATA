@@ -33,4 +33,10 @@ I performed the following actions
 ### DATA ANALYSIS
  This is where I talk about the functions and codes I used
  - E.g
+   '''.  SQL
+   SELECT count([CustomerID])as [No of Customers Per Region],[Region] from [dbo].[customer data]
+ group by[Region]
+'''.
+
+
    
