@@ -57,3 +57,4 @@ data]
 https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1552%20Copy.jpeg 
 
 ### DATA QUERYING
+I was able to make sure the data gotten from microsoft excel was accurate. I used SQL server to retrieve the total number of customers from each region,find the most popular subscription type by the number of customers,find customers who canceled their subscription within 6 months,calculate the average subscription duration for all customers and do other interesting things. 
