@@ -84,3 +84,7 @@ https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%2
    https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy%20Copy.jpeg
 
 6. This shows the year subscription ws cancelled the most.
+   https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1426%20Copy.jpeg
+
+### CONCLUSION AND RECOMMENDATION
+The company should enquire about the reason most customers cancelled their subscriptions and what they can do to prevent future reoccurences.
