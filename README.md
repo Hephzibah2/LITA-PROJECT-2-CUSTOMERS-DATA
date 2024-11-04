@@ -69,7 +69,7 @@ With the use of Power BI, I am able to illustrate every summary drawn from Micro
 
 1. This illustrates the sum of revenue by region
 
-https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy.jpeg
+https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1425%20Copy.jpeg
 
 2. This depicts the amount of customers per subscription type
 
