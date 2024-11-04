@@ -74,4 +74,7 @@ https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%2
 
 https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy.jpeg
 
-3. 
+3. This shows the amount of customers patronising company over the last two years.
+   https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy%20Copy.jpeg
+
+4. 
