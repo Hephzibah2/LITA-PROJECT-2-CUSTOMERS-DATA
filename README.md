@@ -42,7 +42,7 @@ data]
 '''
 
 ### DATA SUMMARY
- I used Microsoft Excel to give summary of my data
+ I used Microsoft Excel to give summary of my data. This will help the organisation to be able to grasp the main ideas quickly and help in comparison and evaluation.
  1. Sum of Revenue by Region
     https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1553%20Copy.jpeg
    
