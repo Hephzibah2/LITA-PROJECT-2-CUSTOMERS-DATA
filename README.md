@@ -73,7 +73,7 @@ https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1425%2
 
 2. This depicts the amount of customers per subscription type
 
-https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy.jpeg
+https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1427%20Copy.jpeg
 
 3. This shows the amount of customers patronising company over the last two years.
    https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1428%20Copy%20Copy.jpeg
