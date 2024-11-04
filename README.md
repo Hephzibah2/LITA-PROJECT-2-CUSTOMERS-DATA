@@ -26,6 +26,7 @@ I performed the following actions
 3. Data cleaning and formatting
 
 ### EXPLORATORY DATA ANALYSIS
+This aim of this process is to answer the following questions:
 1. What is the most popular subscription type?
 2. What is the average subscription duration?
 3. What is the total revenue by subscription type?
