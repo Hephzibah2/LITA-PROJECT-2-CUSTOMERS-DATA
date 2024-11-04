@@ -53,6 +53,7 @@ data]
 3. Sum of revenue per month if it was cancelled or not
    https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1550%20Copy.jpeg
    
-4.    
+4.   Sum of revenue for each region and if it was cancelled or not
+https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1552%20Copy.jpeg 
 
-   
+### DATA QUERYING
