@@ -47,9 +47,10 @@ data]
     https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1553%20Copy.jpeg
    
 
-3. 
+2. Sum of revenue by subscription type
+   https://github.com/Hephzibah2/LITA-PROJECT-2-CUSTOMERS-DATA/blob/main/IMG_1546%20Copy.jpeg
 
-4. 
+3.
    
 5. 
    
