@@ -38,5 +38,19 @@ I performed the following actions
  group by[Region]
 '''.
 
+data]
+'''
+
+### DATA SUMMARY
+ I used Microsoft Excel to give summary of my data
+ 1. Sum of Revenue by Region
+   
+
+3. 
+
+4. 
+   
+5. 
+   
 
    
